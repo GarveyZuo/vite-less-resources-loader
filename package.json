@@ -1,0 +1,24 @@
+{
+  "name": "vite-less-resource-loader",
+  "version": "1.0.0",
+  "description": "this is a less plugin for vite used to prepend global vars in the less files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarveyZuo/vite-less-resources-loader.git"
+  },
+  "keywords": [
+    "vite",
+    "less",
+    "vars"
+  ],
+  "author": "garveyzuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GarveyZuo/vite-less-resources-loader/issues"
+  },
+  "homepage": "https://github.com/GarveyZuo/vite-less-resources-loader#readme"
+}
